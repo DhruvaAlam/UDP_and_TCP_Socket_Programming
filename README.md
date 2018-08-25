@@ -1,6 +1,6 @@
 ## About
 TCP and UDP socket programming in a client-server environment using python.
-Refer to the Assignment
+Refer to the Assignment specification file (pdf).
 ## How to run:  
 1. Run the server first:  
     > python3 server.py <req_code>  
